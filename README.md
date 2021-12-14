@@ -9,8 +9,7 @@ Dosyalara verilen isimler belirli bir mantığı içermektedir.
     * Varsa eğer iki alt çizgi arasında bir sayı, bu alt sıra sayısıdır.
 * alt çizgiden sonra ise uygulamanın adı yer alır.
 
+--------------------------------------------------------------------------------------------------------------
 
-
-
-- **a** : Array - Dizi
-- **ht** : Hash Table - Hash Tablosu 
+1. **a** : Array - Dizi
+2. **ht** : Hash Table - Hash Tablosu 
