@@ -9,7 +9,7 @@
 //  gcc (GCC) 11.2.1
 //
 //  -   stack yapısını linked list ile uygulama.
-//  -   push, pop ve peek işlevlikleri ile işlemler yapılabilir.
+//  -   push, pop ve peek işlevlikleri ile işlemler yapılabilinir.
 //  -   degere veya sıraya göre arama yapılabilinir. O(n) zaman karmaşıklığında olacaktır.
 //
 /* ------------------------------------------------------------------- */
