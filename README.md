@@ -14,3 +14,4 @@ Dosyalara verilen isimler belirli bir mantığı içermektedir.
 1. **a** : Array - Dizi
 2. **ht** : Hash Table - Hash Tablosu 
 3. **ll** : Linked Lists - Bağlı Listeler
+4. **st** : Stack - Yığın
