@@ -15,3 +15,4 @@ Dosyalara verilen isimler belirli bir mantığı içermektedir.
 2. **ht** : Hash Table - Hash Tablosu 
 3. **ll** : Linked Lists - Bağlı Listeler
 4. **st** : Stack - Yığın
+5. **q**  : Queue - Sıra
