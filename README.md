@@ -16,3 +16,4 @@ Dosyalara verilen isimler belirli bir mantığı içermektedir.
 3. **ll** : Linked Lists - Bağlı Listeler
 4. **st** : Stack - Yığın
 5. **q**  : Queue - Sıra
+6. **tr** : Tree - Ağaç
