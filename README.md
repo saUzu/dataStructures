@@ -17,3 +17,4 @@ Dosyalara verilen isimler belirli bir mantığı içermektedir.
 4. **st** : Stack - Yığın
 5. **q**  : Queue - Sıra
 6. **tr** : Tree - Ağaç
+7. **rec**: Recursion - Özyineleme
