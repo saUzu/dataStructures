@@ -18,3 +18,4 @@ Dosyalara verilen isimler belirli bir mantığı içermektedir.
 5. **q**  : Queue - Sıra
 6. **tr** : Tree - Ağaç
 7. **rec**: Recursion - Özyineleme
+8. **srt**: Sort - Sıralama
