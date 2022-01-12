@@ -1,7 +1,7 @@
 /*  ------------------------------------------------------------------- */
 /*  ------------------------------------------------------------------- */
 //
-//  Tarih : 11/01/2022
+//  Tarih : 12/01/2022
 //  Yazan : saUzu
 //  Derlemek için ;
 //  gcc -m64 -Wall -Wextra -Wpedantic -Werror -Wshadow -Wstrict-overflow -fno-strict-aliasing -O2 -std=c99 84srt_mergeSort.c -o 84srt_mergeSort
