@@ -19,3 +19,4 @@ Dosyalara verilen isimler belirli bir mantığı içermektedir.
 6. **tr** : Tree - Ağaç
 7. **rec**: Recursion - Özyineleme
 8. **srt**: Sort - Sıralama
+9. **srch**: Search - Arama
